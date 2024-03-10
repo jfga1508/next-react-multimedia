@@ -1,7 +1,7 @@
 # NextJS/React- Multimedia Youtube App
 
 This is an experimental app that uses NextJS, React Query, React Hook
-Form, Axios and Vercel PostgreSQL where you can login/register and view a list of categories with **YouTube** videos in it.
+Form, Axios, TypeScript and Vercel PostgreSQL where you can login/register and view a list of categories with **YouTube** videos in it.
 
 Keep in mind that there is no custom styling added to it besides Tailwind's default components, the tecnical assessment didn't require any styling or layout to be created.
 

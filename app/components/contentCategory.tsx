@@ -76,12 +76,13 @@ export default function ContentCategory() {
                                         allowFullScreen
                                     ></iframe>
                                     <h3
-                                        className='font-bold'
+                                        className='gap-2 py-2 cursor-pointer font-bold flex justify-between text-2x1'
                                         onClick={() =>
                                             detailsHandleClick(video.videoid)
                                         }
                                     >
-                                        {video.title}
+                                        <span>{video.title}</span>
+                                        <span>View details &raquo;</span>
                                     </h3>
                                 </div>
                             );
