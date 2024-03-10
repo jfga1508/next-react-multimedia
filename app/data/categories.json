@@ -1,0 +1,22 @@
+[
+    {
+        "categoryid": 1,
+        "title": "Cooking"
+    },
+    {
+        "categoryid": 2,
+        "title": "Cities"
+    },
+    {
+        "categoryid": 3,
+        "title": "Animals"
+    },
+    {
+        "categoryid": 4,
+        "title": "Luxury"
+    },
+    {
+        "categoryid": 5,
+        "title": "Astronomy"
+    }
+]
